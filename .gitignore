@@ -1,0 +1,82 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# ----------------------
+# Virtual Environment
+# ----------------------
+venv/
+.venv/
+env/
+ENV/
+
+# ----------------------
+# Distribution / Packaging
+# ----------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ----------------------
+# Unit Test / Coverage
+# ----------------------
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# ----------------------
+# Type Checker
+# ----------------------
+.mypy_cache/
+.pyre/
+.pytype/
+
+# ----------------------
+# Linter
+# ----------------------
+.ruff_cache/
+
+# ----------------------
+# Jupyter Notebook
+# ----------------------
+.ipynb_checkpoints/
+
+# ----------------------
+# IDE / Editor
+# ----------------------
+.vscode/
+.idea/
+
+# Vim
+*.swp
+*.swo
+*~
+
+# ----------------------
+# macOS
+# ----------------------
+.DS_Store
+
+# ----------------------
+# Windows
+# ----------------------
+Thumbs.db
+
+# ----------------------
+# Environment Variables
+# ----------------------
+.env
+.env.*
+
+# ----------------------
+# Logs
+# ----------------------
+*.log
