@@ -1,7 +1,7 @@
 import tkinter as tk
 
 def dispLabel():   #関数を追加する
-    lbl.configure(text="初めてのアプリ") #ラベルの文字を「こんにちは」に変更する
+    lbl.configure(text="こんにちは") #ラベルの文字を「こんにちは」に変更する
 
 root = tk.Tk() #画面を作る
 root.geometry("300x400")
