@@ -80,3 +80,8 @@ Thumbs.db
 # Logs
 # ----------------------
 *.log
+
+# 画像ファイル
+*.jpg
+*jpeg
+*png
